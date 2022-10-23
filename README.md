@@ -1,2 +1,2 @@
-# lfcpinheiro.giothub.io
+# lfcpinheiro.github.io
 Meu Portfolio
